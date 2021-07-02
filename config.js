@@ -15,4 +15,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'công chúa của anh hong được dỗi anh nhiều đó nha , yêu em Kim Trang nhiều lắm lắm lắm lắm .....X n lần luôn ó :333.',
     btnAccept: 'Okeee iu em lăm  lun <3',
+    messLink: 'https://www.facebook.com/profile.php?id=100034979298412'
 }
